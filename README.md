@@ -10,7 +10,7 @@ This Flutter application is a comprehensive news app designed to provide users w
 - **Optimized Performance**: Designed with performance in mind, ensuring a fast and responsive experience.
 
 ### Getting Started:
-Clone the repository, and follow the instructions to set up the environment. The app is built using Flutter, making it cross-platform and accessible on both Android and iOS devices.
+Clone the repository, and follow the instructions to set up the environment. The app is built using Flutter, making it cross-platform and accessible on both Android devices.
 
 ### Installation:
 To run the app locally, make sure you have Flutter installed, then execute the following commands:
@@ -22,7 +22,3 @@ flutter run
 
 ### Contribution:
 Feel free to fork this repository and contribute. Whether it's fixing bugs, adding new features, or improving the UI, all contributions are welcome!
-
----
-
-This description should give potential users and contributors a good understanding of what your app does and how they can get started.
